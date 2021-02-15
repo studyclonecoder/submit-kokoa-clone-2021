@@ -170,3 +170,6 @@
 .reply:focus-within {
   transform: translateY(80px);
 }
+.chats-screen .user-component {
+  margin-top: 5px;
+}
